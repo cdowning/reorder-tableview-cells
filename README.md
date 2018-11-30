@@ -1,4 +1,4 @@
-# Drag and Drop UITableView
+# Reorder UITableView Cells
 
 - This used the CocoaPod 'SwiftReorder' to reorder the TableView cells
 
